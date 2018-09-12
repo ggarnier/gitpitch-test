@@ -20,8 +20,7 @@ An application architecture for React
 
 Nomes devem revelar uma intenção
 
-<div class="left">
-<pre><code class="lang-pyton hljs">
+<pre><code class="lang-python hljs">
 def get_them():
   list1 = []
   for x in the_list:
@@ -29,10 +28,8 @@ def get_them():
       list1.append(x)
   return list1
 </code></pre>
-</div>
 
-<div class="right">
-<pre><code class="lang-pyton hljs">
+<pre class="fragment" data-fragment-index="1"><code class="lang-python hljs">
 def get_flagged_cells():
   flagged_cells = []
   for cell in game_board:
@@ -40,4 +37,3 @@ def get_flagged_cells():
       flagged_cells.append(cell)
   return flagged_cells
 </code></pre>
-</div>
