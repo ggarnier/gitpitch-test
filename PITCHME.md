@@ -20,6 +20,7 @@ An application architecture for React
 
 Nomes devem revelar uma intenção
 
+<div class="left">
 ```python
 def get_them():
   list1 = []
@@ -28,7 +29,9 @@ def get_them():
       list1.append(x)
   return list1
 ```
+</div>
 
+<div class="right">
 ```python
 def get_flagged_cells():
   flagged_cells = []
@@ -37,4 +40,4 @@ def get_flagged_cells():
       flagged_cells.append(cell)
   return flagged_cells
 ```
-
+</div>
