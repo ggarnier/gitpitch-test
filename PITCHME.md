@@ -21,23 +21,23 @@ An application architecture for React
 Nomes devem revelar uma intenção
 
 <div class="left">
-```python
+<pre><code class="lang-pyton hljs">
 def get_them():
   list1 = []
   for x in the_list:
     if x[0] == 4:
       list1.append(x)
   return list1
-```
+</code></pre>
 </div>
 
 <div class="right">
-```python
+<pre><code class="lang-pyton hljs">
 def get_flagged_cells():
   flagged_cells = []
   for cell in game_board:
     if cell[STATUS_VALUE] == FLAGGED:
       flagged_cells.append(cell)
   return flagged_cells
-```
+</code></pre>
 </div>
