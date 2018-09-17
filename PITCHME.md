@@ -1,3 +1,4 @@
+---?image=blue.jpg&size=100% 100%
 # Flux
 
 An application architecture for React
