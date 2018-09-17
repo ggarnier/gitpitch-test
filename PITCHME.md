@@ -2,7 +2,7 @@
 
 An application architecture for React
 
----
+---?image=orange.jpg&position=right&size=50% 100%
 
 @title[Heading + List Body]
 
