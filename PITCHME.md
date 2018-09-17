@@ -4,6 +4,19 @@ An application architecture for React
 
 ---
 
+@snap[west]
+
+@ul[](false)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+- Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+@ulend
+
+@snapend
+
+---
+
 @snap[west text-orange span-50]
 Topics to be covered today
 @snapend
