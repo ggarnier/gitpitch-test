@@ -4,7 +4,7 @@ An application architecture for React
 
 ---
 
-@snap[west]
+@snap[west span-60]
 
 @ul[](false)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -15,6 +15,9 @@ An application architecture for React
 
 @snapend
 
+@snap[east span-30]
+something
+@snapend
 ---
 
 @snap[west text-orange span-50]
