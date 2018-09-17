@@ -2,11 +2,11 @@
 
 An application architecture for React
 
----?image=orange.jpg&position=right&size=50% 100%
+---?image=blue.jpg&position=right&size=50% 100%
 
 @title[Heading + List Body]
 
-@snap[west split-screen-heading text-orange span-50]
+@snap[west split-screen-heading text-blue span-50]
 Topics to be covered today
 @snapend
 
