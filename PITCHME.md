@@ -11,7 +11,7 @@ An application architecture for React
 
 @snap[south text-blue span-100]
 @size[1.8em](Guilherme Garnier)
-<br />
+<br /><br />
 @snapend
 
 ---?image=blue.jpg&position=right&size=50% 100%
