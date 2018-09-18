@@ -3,14 +3,14 @@
 
 An application architecture for React
 
----?image=blue.jpg&size=75% 100%
+---?image=blue.jpg&size=100% 75%
 
 @snap[north text-white span-100]
-## Boas práticas em desenvolvimento de software
+@size[1.5em](Boas práticas em desenvolvimento de software)
 @snapend
 
 @snap[south text-blue span-100]
-### Guilherme Garnier
+@size[1.3em](Guilherme Garnier)
 @snapend
 
 ---?image=blue.jpg&position=right&size=50% 100%
