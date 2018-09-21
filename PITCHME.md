@@ -14,6 +14,18 @@ An application architecture for React
 <br /><br />
 @snapend
 
+---?image=blue.jpg&position=left&size=50% 100%
+
+@title[Clean Code]
+
+@snap[west split-screen-byline text-white]
+@size[2.7em](Clean Code)
+@snapend
+
+@snap[east split-screen-img]
+![](images/wtfm.jpg)
+@snapend
+
 ---?image=blue.jpg&position=right&size=50% 100%
 
 @title[Heading + List Body]
