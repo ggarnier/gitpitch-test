@@ -26,7 +26,7 @@ An application architecture for React
 ![](images/wtfm.jpg)
 @snapend
 
----?color=lavender&image=blue.jpg&position=top&size=20% 100%
+---?color=darkslategrey&image=blue.jpg&position=top&size=100% 20%
 
 @snap[north-west text-white span-100]
 @size[1.5em](Nomes devem revelar uma intenção)
@@ -50,8 +50,8 @@ def get_flagged_cells():
     return flagged_cells
 ```
 
-@[1-6] ruim
-@[8-13] bom
+@[1-6](ruim)
+@[8-13](bom)
 
 ---?image=blue.jpg&position=right&size=50% 100%
 
