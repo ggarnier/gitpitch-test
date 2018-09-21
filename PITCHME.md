@@ -32,7 +32,6 @@ An application architecture for React
 @size[1.5em](Nomes)
 @snapend
 
-@snap[west span-100]
 <br>
 Nomes devem revelar uma intenção
 
@@ -53,7 +52,6 @@ def get_flagged_cells():
             flagged_cells.append(cell)
     return flagged_cells
 ```
-@snapend
 
 ---?image=blue.jpg&position=right&size=50% 100%
 
