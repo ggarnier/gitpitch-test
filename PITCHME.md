@@ -26,7 +26,7 @@ An application architecture for React
 ![](images/wtfm.jpg)
 @snapend
 
----?color=lavender
+---?color=lavender&image=blue.jpg&position=top&size=20% 100%
 
 @snap[north-west text-white span-100]
 @size[1.5em](Nomes devem revelar uma intenção)
@@ -35,7 +35,6 @@ An application architecture for React
 <br>
 
 ```python
-# ruim - nomes poucos descritivos
 def get_them():
     list1 = []
     for x in the_list:
@@ -43,7 +42,6 @@ def get_them():
             list1.append(x)
     return list1
 
-# bom - nomes claros
 def get_flagged_cells():
     flagged_cells = []
     for cell in game_board:
@@ -51,6 +49,9 @@ def get_flagged_cells():
             flagged_cells.append(cell)
     return flagged_cells
 ```
+
+@[1-6] ruim
+@[8-13] bom
 
 ---?image=blue.jpg&position=right&size=50% 100%
 
