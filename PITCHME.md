@@ -14,15 +14,15 @@ An application architecture for React
 <br /><br />
 @snapend
 
----?image=blue.jpg&position=left&size=30% 100%
+---?image=blue.jpg&position=left&size=40% 100%
 
 @title[Clean Code]
 
-@snap[west span-30 split-screen-byline text-white]
+@snap[west span-30 text-white]
 @size[2.7em](Clean Code)
 @snapend
 
-@snap[east span-70 split-screen-img]
+@snap[east span-70]
 ![](images/wtfm.jpg)
 @snapend
 
