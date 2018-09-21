@@ -26,25 +26,24 @@ An application architecture for React
 ![](images/wtfm.jpg)
 @snapend
 
----?image=blue.jpg&position=top&size=100% 20%
+---?color=lavender
 
 @snap[north-west text-white span-100]
-@size[1.5em](Nomes)
+@size[1.5em](Nomes devem revelar uma intenção)
 @snapend
 
 <br>
-Nomes devem revelar uma intenção
 
 ```python
+# ruim - nomes poucos descritivos
 def get_them():
     list1 = []
     for x in the_list:
         if x[0] == 4:
             list1.append(x)
     return list1
-```
 
-```python
+# bom - nomes claros
 def get_flagged_cells():
     flagged_cells = []
     for cell in game_board:
