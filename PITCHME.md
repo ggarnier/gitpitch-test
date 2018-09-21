@@ -26,6 +26,35 @@ An application architecture for React
 ![](images/wtfm.jpg)
 @snapend
 
+---?image=blue.jpg&position=top&size=100% 20%
+
+@snap[north-west text-white span-100]
+@size[1.5em](Nomes)
+@snapend
+
+@snap[west span-100]
+<br>
+Nomes devem revelar uma intenção
+
+```python
+def get_them():
+    list1 = []
+    for x in the_list:
+        if x[0] == 4:
+            list1.append(x)
+    return list1
+```
+
+```python
+def get_flagged_cells():
+    flagged_cells = []
+    for cell in game_board:
+        if cell[STATUS_VALUE] == FLAGGED:
+            flagged_cells.append(cell)
+    return flagged_cells
+```
+@snapend
+
 ---?image=blue.jpg&position=right&size=50% 100%
 
 @title[Heading + List Body]
